@@ -53,15 +53,15 @@ Hello, there
 💫 About me
 </h1>
 
-- :telescope: I’m working aon full stack web development projects.
+- :telescope: I’m working on full stack web development projects.
 
 - :seedling: I’m currently learning Machine Learning.
 
-- :zap: In my free time, I solve problems on Codeched, Codeforces and leetcode.
+- :zap: In my free time, I solve problems on Codechef, Codeforces and leetcode.
 
 - :left_speech_bubble: Ask me about Anthing you like.
 
-- :mailbox:How to reach me: harshdavra123@gmail.com
+- :mailbox: How to reach me: harshdavra123@gmail.com
 
 ---
 
