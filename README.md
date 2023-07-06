@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/harsh-davra">
+  <a href="https://www.linkedin.com/in/harsh-davra">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codechef.com/users/harsh_1424L">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
 <a href="https://leetcode.com/regnROK/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
-/a>
+</a>
 <a href="https://www.instagram.com/harshdavra9/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
