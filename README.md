@@ -43,11 +43,15 @@ hey there
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG85Mng2dzg3eDQ3OWpweWtvdXJ5d2RqaGo0NmtudDd2ZXJ3YXJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="600" height="300"/>
 </div>
-- 🔭 I’m currently working on full stack projects.
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on Open source Projects.
-- 💬 Ask me about Anthing you like.
-- 📫 How to reach me: harshdavra123@gmail.com
+- :telescope: I’m working aon full stack web development projects.
+
+- :seedling: I’m currently learning Machine Learning.
+
+- :zap: In my free time, I solve problems on Codeched, Codeforces and leetcode.
+
+- :left_speech_bubble: Ask me about Anthing you like.
+
+- :mailbox:How to reach me: harshdavra123@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
