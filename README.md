@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="100"/>
 </div>
