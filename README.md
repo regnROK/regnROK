@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
+  <h1>
+hey there
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -35,10 +39,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=regnROM&style=flat-square&color=blue" alt=""/>
-<h1>
-hey there
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG85Mng2dzg3eDQ3OWpweWtvdXJ5d2RqaGo0NmtudDd2ZXJ3YXJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="600" height="300"/>
